@@ -22,7 +22,6 @@
 ## 依赖
 
 - **Wolfram Language MCP** — 本 skill 需要 Wolfram Language 计算环境来求解积分展开式和线性方程组。请确保你的 AI 编程工具已配置 Wolfram MCP（Wolfram 15+）。
-- Python 3.14+（可选，用于 skill-creator 评测脚本）
 
 ## 结构
 

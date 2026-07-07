@@ -8,7 +8,7 @@ A skill that teaches AI agents to construct "注意到" (notice-that) style inte
 A system for generating definite integrals that prove inequalities of the form \(u > v\) by expressing \(u-v\) as \(\int_a^b f(x)\,dx\) with a non-negative integrand. The system uses template integrals with undetermined coefficients, solved via linear equations.
 
 **Skill**:
-The `.agents/skills/zhuyidao/` directory. `SKILL.md` is the entrypoint containing workflow, routing logic, Wolfram Language recipes, and examples.
+The root directory. `SKILL.md` is the entrypoint containing workflow, routing logic, Wolfram Language recipes, and examples.
 
 **type-index**:
 A reference file at `references/type-index.md` listing all 45 inequality types with their integral templates. Agents route to it by recognizing the function families in the target inequality.

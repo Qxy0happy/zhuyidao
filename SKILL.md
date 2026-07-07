@@ -14,7 +14,7 @@ $$u - v = \int_a^b f(x)\,dx > 0 \quad\Longrightarrow\quad u > v.$$
 The original article by 量化调酒师 catalogs **45 types** of such integrals. This skill teaches you to route to the right type, solve the coefficients, and present the proof.
 
 > **SOURCE ARTICLE** (read for expanded formulas not included in family refs):
-> `D:\Projects\zhuyidao\【优雅技巧】如何优雅地"注意到"关于e、π的不等式-量化调酒师的文章\【优雅技巧】如何优雅地"注意到"关于e、π的不等式-量化调酒师的文章.md`
+> `【优雅技巧】如何优雅地"注意到"关于e、π的不等式-量化调酒师的文章/【优雅技巧】如何优雅地"注意到"关于e、π的不等式-量化调酒师的文章.md`
 
 ## Workflow
 

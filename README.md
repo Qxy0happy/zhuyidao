@@ -26,17 +26,17 @@
 ## 结构
 
 ```text
-.agents/skills/zhuyidao/
 ├── SKILL.md                      # 入口：工作流 + Wolfram配方 + 协调界例子
-└── references/
-    ├── type-index.md             # 路由表（根据不等式形式指向对应家族）
-    ├── family-pi-e.md            # π/e 家族（类型 1-6）
-    ├── family-log-invtrig.md     # 对数/反三角家族（类型 7-13）
-    ├── family-trig.md            # 三角家族（类型 14-19）
-    ├── family-hyper.md           # 双曲家族（类型 20-27）
-    ├── family-exp-trig.md        # 指数·三角组合（类型 28-30）
-    ├── family-special-constants.md  # 特殊常数（类型 31-39）
-    └── family-special-functions.md  # 特殊函数（类型 40-45）
+├── references/
+│   ├── type-index.md             # 路由表（根据不等式形式指向对应家族）
+│   ├── family-pi-e.md            # π/e 家族（类型 1-6）
+│   ├── family-log-invtrig.md     # 对数/反三角家族（类型 7-13）
+│   ├── family-trig.md            # 三角家族（类型 14-19）
+│   ├── family-hyper.md           # 双曲家族（类型 20-27）
+│   ├── family-exp-trig.md        # 指数·三角组合（类型 28-30）
+│   ├── family-special-constants.md  # 特殊常数（类型 31-39）
+│   └── family-special-functions.md  # 特殊函数（类型 40-45）
+└── 【优雅技巧】...量化调酒师的文章/   # 原始文章
 ```
 
 ## Workflow
